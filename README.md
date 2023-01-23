@@ -84,13 +84,6 @@ Run the interpreter on a file:
 * **pstr**
   * Prints the string contained in the stack/queue.
   * Prints characters element by element until the stack/queue is empty, a value is `0`, or an error occurs.
-
-* **rotl**
-  * Rotates the top element of the stack/queue to the bottom.
-
-* **rotr**
-  * Rotates the bottom element of the stack/queue to the top.
-
 * **stack**
   * Switches a queue to stack mode.
 
